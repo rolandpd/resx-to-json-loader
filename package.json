@@ -1,0 +1,27 @@
+{
+  "name": "resx-to-json-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to convert .resx-files to simple json (to use in i18n frameworks).",
+  "main": "index.js",
+  "scripts": {
+    "link": "npm link"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandpd/resx-to-json-loader.git"
+  },
+  "keywords": [
+    "i18next",
+    "resx"
+  ],
+  "author": "Roland Domagalski",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rolandpd/resx-to-json-loader/issues"
+  },
+  "homepage": "https://github.com/rolandpd/resx-to-json-loader#readme",
+  "dependencies": {
+    "promise": "^7.1.1",
+    "xml2js": "^0.4.17"
+  }
+}
