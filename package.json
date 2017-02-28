@@ -23,5 +23,8 @@
   "dependencies": {
     "promise": "^7.1.1",
     "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "glob": "^7.1.1"
   }
 }
